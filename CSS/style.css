@@ -106,7 +106,7 @@ body{
 .services {
     display: grid;
     grid-template: 50% 50% / 50% 50%;
-    grid-column-gap: 2;
+    grid-column-gap: 2rem;
 }
 .page h2{
     position: absolute;
