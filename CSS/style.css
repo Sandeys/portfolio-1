@@ -65,7 +65,7 @@ body{
     width: 58px;
     height: 58px;
     margin-right: 23px;
-    background-image: url(/img/mamon-logo.svg);
+    background-image: url(./img/mamon-logo.svg);
 }
 .logo_text{
     font-size: 24px;
